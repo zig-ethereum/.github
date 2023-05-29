@@ -17,7 +17,7 @@ implementations. Our Zig node implementation is based on the many greats before 
 
 We're focused on being the most well-documented resource on Ethereum. Reading our code and
 documentation should feel like reading the manual on Ethereum. Get started by taking a look
-at [zeth](https://github/zig-ethereum/zeth).
+at [zeth](https://github.com/zig-ethereum/zeth).
 
 ## Learn Zig
 
